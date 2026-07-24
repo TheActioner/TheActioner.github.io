@@ -66,6 +66,8 @@ Example output from **Get Device Motion**:
 
 1. Clone the repository:
 
+(Note: this repo is Private)
+
    ```bash
    git clone https://github.com/TheActioner/Actioner-App.git
    cd Actioner-App
