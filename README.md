@@ -19,8 +19,7 @@
   <a href="./LICENSE"><img alt="Apache 2.0 License" src="https://img.shields.io/badge/license-Apache--2.0-blue"></a>
 </p>
 
-> [!WARNING]
-> Actioner is currently an **alpha preview**. Features, action names, and behavior may change, and some actions may require the app to open so iOS can request permission.
+### Actioner is currently an **alpha preview**. Features, action names, and behavior may change, and some actions may require the app to open so iOS can request permission.
 
 ## About
 
