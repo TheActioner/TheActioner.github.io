@@ -15,7 +15,7 @@
 <p align="center">
   <img alt="Swift 6" src="https://img.shields.io/badge/Swift-6-F05138?logo=swift&logoColor=white">
   <img alt="iOS 26+" src="https://img.shields.io/badge/iOS-26%2B-000000?logo=apple&logoColor=white">
-  <img alt="Version 0.0.8" src="https://img.shields.io/badge/version-0.0.8-yellow">
+  <img alt="Version 0.0.8" src="https://img.shields.io/badge/version-0.0.9-yellow">
   <a href="./LICENSE"><img alt="Apache 2.0 License" src="https://img.shields.io/badge/license-Apache--2.0-blue"></a>
 </p>
 
