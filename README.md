@@ -1,7 +1,7 @@
 <div align="center">
   <img
     height="148"
-    src="https://github.com/TheActioner.png?size=100"
+    src="/actioner.png?size=148"
     alt="Actioner logo"
   />
 </div>
